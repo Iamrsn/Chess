@@ -1,0 +1,8 @@
+.on kaam krta receive krne ke liee socket kaam
+.emit hota hai bhejne ke lie socket ki help se data
+
+jaise ham kuch.emit(bhejte to) wo jayega 
+or ham kuch.on(le lege) usko receive kr leege..
+wohi frontend se bhejege or backend se lege or kaam krege socket ki help se..
+
+white ya black wala koi bhi game chorta hai to game delete ho jaye mtlb users to uski id deeke usko delete kar dege..
